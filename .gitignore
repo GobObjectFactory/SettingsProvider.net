@@ -20,3 +20,5 @@ src/NuGetBuild/
 src/NuGetBuildWp7/
 *.nupkg
 README.html
+/.vs
+/src/.vs/SettingsProviderNet
